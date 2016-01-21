@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace UtilTool_Metro
 {
-    public partial class Form1 : Form
+    public partial class mainWindow : MetroFramework.Forms.MetroForm
     {
-        public Form1()
+        public mainWindow()
         {
             InitializeComponent();
         }
